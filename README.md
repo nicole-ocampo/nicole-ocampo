@@ -5,7 +5,7 @@
 🔭 I’m currently working on my UI/UX portfolio and undergraduate thesis<br>
 🌱 I’m currently learning Human-Computer Interaction and Data Analysis<br>
 😄 Pronouns: she/her <br>
-⚡ My portfolio: ![](https://nicoleocampo.com)<br>
+⚡ My portfolio: [nicoleocampo.com](https://nicoleocampo.com)<br>
 📫 How to reach me: hello@nicoleocampo.com
 
 
