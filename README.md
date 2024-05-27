@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my undergraduate thesis<br>
-🌱 I’m currently learning Human-Computer Interaction and Data Analysis<br>
+🔭 I’m currently working as an Associate Applications Engineer for Oracle PH<br>
+🌱 I’m currently learning Cloud Computing and Data Analysis<br>
 😄 Pronouns: she/her <br>
 ⚡ My portfolio: [nicoleocampo.com](https://nicoleocampo.com)<br>
 📫 How to reach me: hello@nicoleocampo.com
